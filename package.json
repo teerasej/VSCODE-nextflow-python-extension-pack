@@ -1,0 +1,32 @@
+{
+    "name": "nextflow-python-pack",
+    "displayName": "Nextflow's Python Extension Pack",
+    "description": "An extension pack that help you prepare your machine on Python development environment easier",
+    "version": "1.0.0",
+    "publisher": "teerasej",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/teerasej/vscode-Nextflow-Flutter-Extension-Pack"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "ms-python.black-formatter",
+        "oderwat.indent-rainbow",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "JerryHong.autofilename", 
+        "codezombiech.gitignore",
+        "donjayamanne.githistory", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-complete-tag", 
+        "formulahendry.auto-rename-tag", 
+        "msjsdiag.debugger-for-chrome",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
